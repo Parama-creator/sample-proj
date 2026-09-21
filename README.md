@@ -78,23 +78,7 @@ This project presents an end-to-end, explainable credit risk modelling pipeline 
 | Precision | 93% |
 | Best Model | XGBoost |
 
-## 📁 Repository Structure (Suggested)
-
-```
-├── data/                   # Raw and processed data references (no sensitive data committed)
-├── notebooks/              # EDA, feature engineering, modelling notebooks
-├── src/
-│   ├── pipeline/           # Medallion architecture (Bronze/Silver/Gold) PySpark scripts
-│   ├── feature_selection/  # SHAP, Boruta, GA, CNN permutation importance scripts
-│   ├── graph_analysis/     # Neo4j feature interaction analysis
-│   ├── models/             # Model training & Optuna tuning scripts
-│   └── explainability/     # SHAP, LIME, DiCE, GenAI report generation
-├── api/                    # FastAPI service for scoring
-├── workflows/              # n8n workflow exports
-├── dashboard/              # Power BI dashboard files
-├── requirements.txt
-└── README.md
-```
+.........................................................................................................................................
 
 ## ⚙️ How It Works (End-to-End Flow)
 
