@@ -1,8 +1,0 @@
-Intern - Advanced Quantz & Analytics (AQuA) | BFSI | Tata Consultancy Services (TCS) - Pune                                         [May 2026 - July 2026]
-Project Title: AI-Driven - Explainable Credit Risk Modelling Using 2D Image CNNs and Network Graphs
-• Built a Databricks Medallion Architecture in PySpark on AMEX Time Series dataset with extensive feature creation and Feature Store integration
-• Performed Feature Engineering with Univariate, Bivariate and Multivariate Analysis including Correlation Filter, Factor Analysis and Clustering
-• Selected Features by ranking with SHAP, Boruta, Genetic Algorithm, CNN Permutation Importance and analyzed Feature Interactions using Neo4j
-• Addressed class imbalance by ADASYN & CTGAN; compared LR, LightGBM, XGBoost (best-performing), CatBoost, Dense NN with Optuna tuning
-• Achieved 0.98 ROC-AUC, 93% precision; converted PD to CIBIL Score and integrated SHAP, LIME, DiCE, and GenAI to generate audit-ready reports
-• Built Power BI dashboard and orchestrated n8n workflow automation from customer's loan application to email trigger using FastAPI and ngrok
